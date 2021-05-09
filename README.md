@@ -6,4 +6,4 @@ These exercises and examples will help the reader implement and use Bayesian Net
 
 Furthermore, you can use this code to make your own inference engine from the ground up and implement it in your AI projects.
 
-It is worth noting that there are several PGM frameworks for Python in the market, probably the most known is [pypgm](https://github.com/pgmpy/pgmpy). However, these frameworks have their own structures and do not help you have a greater insight of how PGMs work.
+It is worth noting that there are several PGM frameworks for Python in the market, probably the most known is [pypgm](https://github.com/pgmpy/pgmpy). However, these frameworks have their own structures and do not help you have a greater insight on how PGMs work.
