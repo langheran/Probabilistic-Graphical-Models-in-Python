@@ -4,4 +4,6 @@ Base on coursera's PGM (Probabilistic Graphical Models) series by Dr. Daphne Kol
 
 These excercises and examples will help the reader implement and use Bayesian Networks from the ground up in Python. Why Python? because I had a more pleasurable experience at debugging and refactoring simple concepts. Debugging also helps at learning about the data without the need to contrive complicated matlab data plots.
 
-Furthermore, you can use this code to make your own inference engine from the groud up and implement it in your AI projects.
+Furthermore, you can use this code to make your own inference engine from the ground up and implement it in your AI projects.
+
+It is worth noting that there are several PGM frameworks for Python in the market, probably the most known is [pypgm](https://github.com/pgmpy/pgmpy). However, these frameworks have their own structures and do not help you have a greater insight of how PGMs work.
