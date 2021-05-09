@@ -1,1 +1,0 @@
-1. Contruct a [Clique Tree](/structures/clique.py) from a given set of factors <!-- $\phi$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=\color{white}{%5Cphi}">
